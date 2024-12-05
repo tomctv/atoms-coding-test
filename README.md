@@ -1,6 +1,6 @@
 # atoms-coding-test
 
-App developed as a coding test for Atoms Studio - Retex.
+App developed as a coding test for Atoms Studio (Retex) using Vue 3.
 
 ## Project Setup
 
